@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility", "Codility\Codility.csproj", "{4FE07F6A-FB7A-4DBF-BF6F-CA16F222B86E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{7F49D714-DE51-439A-B18A-4BBEC2D5CCE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4FE07F6A-FB7A-4DBF-BF6F-CA16F222B86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FE07F6A-FB7A-4DBF-BF6F-CA16F222B86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FE07F6A-FB7A-4DBF-BF6F-CA16F222B86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F49D714-DE51-439A-B18A-4BBEC2D5CCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F49D714-DE51-439A-B18A-4BBEC2D5CCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F49D714-DE51-439A-B18A-4BBEC2D5CCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F49D714-DE51-439A-B18A-4BBEC2D5CCE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
