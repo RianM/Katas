@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility", "Codility\Codility.csproj", "{4FE07F6A-FB7A-4DBF-BF6F-CA16F222B86E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling", "CodingDojo\BowlingChallenge\Bowling\Bowling.csproj", "{0F4AE87E-C02E-4315-A0CE-733BB4C8C0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling.Tests", "CodingDojo\BowlingChallenge\Bowling.Tests\Bowling.Tests.csproj", "{49F392B9-ED5B-4238-99D3-446CF1F7CBE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{4FE07F6A-FB7A-4DBF-BF6F-CA16F222B86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FE07F6A-FB7A-4DBF-BF6F-CA16F222B86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FE07F6A-FB7A-4DBF-BF6F-CA16F222B86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4AE87E-C02E-4315-A0CE-733BB4C8C0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4AE87E-C02E-4315-A0CE-733BB4C8C0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4AE87E-C02E-4315-A0CE-733BB4C8C0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4AE87E-C02E-4315-A0CE-733BB4C8C0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F392B9-ED5B-4238-99D3-446CF1F7CBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F392B9-ED5B-4238-99D3-446CF1F7CBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F392B9-ED5B-4238-99D3-446CF1F7CBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F392B9-ED5B-4238-99D3-446CF1F7CBE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
