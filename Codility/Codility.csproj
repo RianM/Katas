@@ -17,10 +17,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Lessons" />
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\TestHelpers\TestHelpers.csproj" />
     </ItemGroup>
 
